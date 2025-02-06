@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 import { LuInstagram } from "react-icons/lu";
 
@@ -12,7 +13,7 @@ const Footer = () => {
           href="/"
         >
           <span className="ml-3 text-xl">
-            <img
+            <Image
               src="/logo.png"
               alt="BagVerse Logo"
               width="40"

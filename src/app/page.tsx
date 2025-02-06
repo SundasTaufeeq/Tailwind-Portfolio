@@ -35,7 +35,7 @@ export default function Home() {
       </h1>
       <p className="mb-8 leading-relaxed text-neutral-900 mr-24">
       An enthusiastic web developer with a solid foundation in HTML, CSS, and JavaScript,
-       I'm currently expanding my skills with Next.js and Tailwind CSS. Passionate about creating responsive,
+       I&Apos;m currently expanding my skills with Next.js and Tailwind CSS. Passionate about creating responsive,
        user-friendly websites,I am dedicated to continuous learning and eager to apply my growing expertise
         to real-world projects.
       </p>
